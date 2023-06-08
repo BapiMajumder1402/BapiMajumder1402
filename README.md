@@ -1,7 +1,8 @@
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 # 💫 About Me:
 🔭 I’m currently working on Function Up as a Webdeveloper Trainee.<br>👯 I’m looking to collaborate on Frontend Project.<br>🤝 I’m looking for help with good career opportunity.<br>🌱 I’m currently learning React , Three.js , Sass<br>⚡ Fun fact I think I am funny.
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Bapi Majumder) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/https://bapi-portfolio.netlify.app/) 
